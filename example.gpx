@@ -1,0 +1,76 @@
+<gpx creator="GPS Visualizer https://www.gpsvisualizer.com/" version="1.0">
+  <wpt lat="45.44283" lon="-121.72904"><ele>1374</ele><name>Vista Ridge Trailhead</name><sym>Trail Head</sym></wpt>
+  <wpt lat="45.41000" lon="-121.71349"><ele>1777</ele><name>Wy'East Basin</name></wpt>
+  <wpt lat="45.41124" lon="-121.70404"><ele>1823</ele><name>Dollar Lake</name></wpt>
+  <wpt lat="45.39260" lon="-121.69937"><ele>2394</ele><name>Barrett Spur</name><sym>Summit</sym></wpt>
+  <trk>
+    <name>Barrett Spur 1</name>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>9900ff</color>
+      </line>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.4431641" lon="-121.7295456"></trkpt>
+      <trkpt lat="45.4428615" lon="-121.7290800"></trkpt>
+      <trkpt lat="45.4425697" lon="-121.7279085"></trkpt>
+      <trkpt lat="45.4424274" lon="-121.7267360"></trkpt>
+      <trkpt lat="45.4422017" lon="-121.7260429"></trkpt>
+      <trkpt lat="45.4416576" lon="-121.7252347"></trkpt>
+      <trkpt lat="45.4406144" lon="-121.7241181"></trkpt>
+      <trkpt lat="45.4153644" lon="-121.7193939"></trkpt>
+      <trkpt lat="45.4104523" lon="-121.7145250"></trkpt>
+      <trkpt lat="45.4104930" lon="-121.7143814"></trkpt>
+      <trkpt lat="45.4102075" lon="-121.7140608"></trkpt>
+      <trkpt lat="45.4099806" lon="-121.7134527"></trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="45.4099792" lon="-121.7134610"></trkpt>
+      <trkpt lat="45.4091489" lon="-121.7134937"></trkpt>
+      <trkpt lat="45.3963985" lon="-121.7033742"></trkpt>
+      <trkpt lat="45.3945456" lon="-121.7029688"></trkpt>
+      <trkpt lat="45.3920595" lon="-121.7015918"></trkpt>
+      <trkpt lat="45.3907614" lon="-121.7012029"></trkpt>
+      <trkpt lat="45.3906454" lon="-121.7010483"></trkpt>
+      <trkpt lat="45.3906726" lon="-121.7008185"></trkpt>
+      <trkpt lat="45.3909774" lon="-121.7008263"></trkpt>
+      <trkpt lat="45.3911315" lon="-121.7004300"></trkpt>
+      <trkpt lat="45.3909963" lon="-121.6998193"></trkpt>
+      <trkpt lat="45.3908688" lon="-121.6997923"></trkpt>
+      <trkpt lat="45.3917895" lon="-121.6994679"></trkpt>
+      <trkpt lat="45.3926205" lon="-121.6994847"></trkpt>
+      <trkpt lat="45.3925915" lon="-121.6992485"></trkpt>
+      <trkpt lat="45.3928117" lon="-121.6995661"></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Barrett Spur 2</name>
+    <trkseg>
+      <trkpt lat="45.3928201" lon="-121.6995658"></trkpt>
+      <trkpt lat="45.3935449" lon="-121.6998805"></trkpt>
+      <trkpt lat="45.3937897" lon="-121.6997710"></trkpt>
+      <trkpt lat="45.3941789" lon="-121.6999492"></trkpt>
+      <trkpt lat="45.3993308" lon="-121.7050832"></trkpt>
+      <trkpt lat="45.4006454" lon="-121.7055117"></trkpt>
+      <trkpt lat="45.4017924" lon="-121.7049952"></trkpt>
+      <trkpt lat="45.4028690" lon="-121.7048065"></trkpt>
+      <trkpt lat="45.4055213" lon="-121.7056599"></trkpt>
+      <trkpt lat="45.4055606" lon="-121.7058477"></trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="45.4055556" lon="-121.7058619"></trkpt>
+      <trkpt lat="45.4057016" lon="-121.7055424"></trkpt>
+      <trkpt lat="45.4064672" lon="-121.7058247"></trkpt>
+      <trkpt lat="45.4065550" lon="-121.7056490"></trkpt>
+      <trkpt lat="45.4081392" lon="-121.7055042"></trkpt>
+      <trkpt lat="45.4084785" lon="-121.7052201"></trkpt>
+      <trkpt lat="45.4136095" lon="-121.7071948"></trkpt>
+      <trkpt lat="45.4126067" lon="-121.7080044"></trkpt>
+      <trkpt lat="45.4122181" lon="-121.7088539"></trkpt>
+      <trkpt lat="45.4106014" lon="-121.7125816"></trkpt>
+      <trkpt lat="45.4104916" lon="-121.7129590"></trkpt>
+      <trkpt lat="45.4102544" lon="-121.7130066"></trkpt>
+      <trkpt lat="45.4099714" lon="-121.7134279"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
